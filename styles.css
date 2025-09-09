@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #1b8023;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #50e98a;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #0a5532;
     font-weight: 600;
     font-size: 2rem;
 }
@@ -82,7 +82,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.jpg') bottom left no-repeat;
+        url('img/flor-esquerda..jpg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -110,7 +110,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-direita-300-460.png') bottom right no-repeat;
+    background: url('img/flor-direita-300-460..png') bottom right no-repeat;
     /* background-size: 180px 180px; */
 }
 
